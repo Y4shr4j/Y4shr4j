@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Frameworks, Courses, etc**
 
-- 👨‍💻 All of my projects are available at [yashra4j.netlify.app](https://yashra4j-portfolio.vercel.app/)
+- 👨‍💻 All of my projects are available at [yashra4j.app](https://yashra4j-portfolio.vercel.app/)
 
 - 💬 Ask me about **react, mongoDB**
 
