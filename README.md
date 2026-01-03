@@ -5,27 +5,33 @@
   <a href="https://auratxt.com"><b>AuraText</b></a> ·
   <a href="https://www.linkedin.com/in/yashra4j/">LinkedIn</a> ·
   <a href="https://github.com/Y4shr4j">GitHub</a> ·
-  <a href="mailto:yashra4j@gmail.com">Email</a>
+  <a href="mailto:auratext.app@gmail.com">Email</a>
 </p>
 
 ---
 
-### 👨‍💻 About
-Founder of **AuraText**, a Windows-first AI prompt optimization platform.  
-I build **system-level tools**, full-stack applications, and AI workflows with a focus on:
+### 👋 About
+I’m a software engineer and founder building **AuraText**, a Windows-first AI prompt optimization platform.
 
-- clarity over magic  
-- reproducibility over randomness  
-- shipping real products  
+I focus on:
+- system-level tooling  
+- AI workflows & prompt engineering  
+- full-stack product development  
+- shipping real, usable software  
 
-Currently working on:
-- AI prompt optimization & tooling  
-- Desktop-first AI workflows  
-- Full-stack systems & infrastructure  
+I care more about **precision, reproducibility, and flow** than hype.
 
 ---
 
-### 🛠️ Core Stack
+### 🚀 Current Focus
+- AI-first desktop applications  
+- Prompt optimization frameworks (RISEN, COSTAR, RTF)  
+- Multi-model AI workflows  
+- Developer productivity tooling  
+
+---
+
+### 🛠️ Tech Stack
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/>
@@ -40,32 +46,19 @@ Currently working on:
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=y4shr4j&show_icons=true&hide_title=true&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=y4shr4j&layout=compact&hide_border=true" />
-</p>
-
----
-
-### 🔥 Contribution Streak
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=y4shr4j&hide_border=true" />
-</p>
+### 🌐 Links
+- 🌍 Website: https://auratxt.com  
+- 🐦 X (Twitter): https://x.com/auratext  
+- 💬 Discord: https://discord.com/invite/NamyGv3ecs  
+- 📸 Instagram: https://www.instagram.com/auratext.app/  
+- 🧠 Reddit: https://www.reddit.com/r/AuraText/  
+- ▶️ YouTube: https://www.youtube.com/@auratext_ai_app  
+- 📦 Releases: https://github.com/Y4shr4j/auratext-releases  
+- 🧑‍💻 GitHub: https://github.com/Y4shr4j  
 
 ---
 
-### 📈 Activity Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=y4shr4j&theme=github-compact&hide_border=true" />
-</p>
-
----
-
-### ⚡ Build Philosophy
-> Build real things.  
-> Ship early.  
-> Iterate with intent.
+### ⚡ Philosophy
+> Build tools that reduce friction.  
+> Optimize the input, not just the output.  
+> Ship → learn → iterate.
