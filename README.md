@@ -2,29 +2,26 @@
 <h3 align="center">Founder & Software Engineer | Building AI-first products</h3>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=y4shr4j&theme=flat&no-frame=true&margin-w=8" />
-  </a>
+  <a href="https://auratxt.com"><b>AuraText</b></a> ·
+  <a href="https://www.linkedin.com/in/yashra4j/">LinkedIn</a> ·
+  <a href="https://github.com/Y4shr4j">GitHub</a> ·
+  <a href="mailto:yashra4j@gmail.com">Email</a>
 </p>
 
 ---
 
 ### 👨‍💻 About
-Founder of **AuraText** — a Windows-first AI prompt optimization platform.  
-I build **system-level tools**, AI workflows, and full-stack products with a focus on **clarity, performance, and reproducibility**.
+Founder of **AuraText**, a Windows-first AI prompt optimization platform.  
+I build **system-level tools**, full-stack applications, and AI workflows with a focus on:
+
+- clarity over magic  
+- reproducibility over randomness  
+- shipping real products  
 
 Currently working on:
-- AI prompt optimization & tooling
-- Desktop-first AI workflows
-- Full-stack systems & infra
-
----
-
-### 🔗 Links
-- 🌐 Product: https://auratxt.com  
-- 💻 GitHub: https://github.com/Y4shr4j  
-- 💼 LinkedIn: https://www.linkedin.com/in/yashra4j/  
-- 📫 Email: **yashra4j@gmail.com**
+- AI prompt optimization & tooling  
+- Desktop-first AI workflows  
+- Full-stack systems & infrastructure  
 
 ---
 
@@ -45,27 +42,30 @@ Currently working on:
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=y4shr4j&show_icons=true&hide_title=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=y4shr4j&show_icons=true&hide_title=true&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=y4shr4j&layout=compact" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=y4shr4j" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=y4shr4j&layout=compact&hide_border=true" />
 </p>
 
 ---
 
-### 📈 Contribution Activity
+### 🔥 Contribution Streak
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=y4shr4j&theme=github-compact" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=y4shr4j&hide_border=true" />
+</p>
+
+---
+
+### 📈 Activity Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=y4shr4j&theme=github-compact&hide_border=true" />
 </p>
 
 ---
 
 ### ⚡ Build Philosophy
 > Build real things.  
-> Ship fast.  
+> Ship early.  
 > Iterate with intent.
